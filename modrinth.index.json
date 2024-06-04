@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.12.0-beta.4",
+    "versionId": "5.12.0-beta.4-nat",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -519,6 +519,50 @@
             "fileSize": 1061972
         },
         {
+            "path": "mods/edgerunner.jar",
+            "hashes": {
+                "sha1": "2b48c83f21106aa6ebce1d6c21a64fbfdd64eba6",
+                "sha512": "05776bc3c661455905e0804716b83991092facbcf7aecba28698af960f516f1b89001843c07a998b84a1a0bbc475e069fdc436f378c25a81c821e0dd816a305f"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/cFvHfwHx/versions/fvmv6sZP/EdgeRunner-1.0.0.jar"
+            ],
+            "fileSize": 4375
+        },
+        {
+            "path": "mods/bobby.jar",
+            "hashes": {
+                "sha1": "4f0a2d057263846309623b74ea831c12dfdd1b73",
+                "sha512": "69399fa8d758a4ff4031c7c569411e91d3d5217152b53be37a0050d244e84e539d8ff8b3b2e05e100bef0c8eae991019697f019e0b973160bc13574afdf81981"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/M08ruV16/versions/ELPibYhN/bobby-5.2.0%2Bmc1.20.6.jar"
+            ],
+            "fileSize": 852223
+        },
+        {
+            "path": "mods/spu.jar",
+            "hashes": {
+                "sha1": "04d0b27392a9117f0e10a0fb0b36a7e5bd56a57e",
+                "sha512": "6a5cc268df928819e87e8d290b0622a37eb2b5e9346d10a48f089c9943f191d0cd275ece91f8bf8e663b5eb70dcca59e918b7827d48b4c25f632855fd047d4a7"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/PiuygVWJ/versions/qnj9ffJd/spu-1.8.jar"
+            ],
+            "fileSize": 20592
+        },
+        {
+            "path": "mods/viafabricplus.jar",
+            "hashes": {
+                "sha1": "2ef891c3ba7213f39322a0467a68e311aec08442",
+                "sha512": "2d029fafcad4530b2ae40c838e4a29be4027b47c790caf7584ec7448279be5356bf15ae6b9bfae7772fdd37aeba0627d96db120415a235ecb0af3193257777d4"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/rIC2XJV4/versions/8y7ndLGS/ViaFabricPlus-3.3.0.jar"
+            ],
+            "fileSize": 10923221
+        },
+        {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
                 "sha1": "e2a6fa251992d2e6293131ee0ef5a3ef01bf021d",
@@ -550,6 +594,28 @@
                 "https://cdn.modrinth.com/data/yfDziwn1/versions/rr7vSO7n/SodiumTranslations.zip"
             ],
             "fileSize": 185737
+        },
+        {
+            "path": "resourcepacks/sakurahotbar.zip",
+            "hashes": {
+                "sha1": "cabb3922394177381175949cef41c06d4076d2fa",
+                "sha512": "40a1be1ba93ea7a811f38822a1f7dcfd41ae000d198334e5af68ee1ce18708175249830d8bf7f70533ffa3125957010df97d04bb0da5fe1ba37f0eb5a34b09f4"
+            },
+            "downloads": [
+                "https://github.com/surfaceflinger/sakura-hotbar/releases/download/1.20.6-1/sakurahotbar.zip"
+            ],
+            "fileSize": 19126
+        },
+        {
+            "path": "resourcepacks/staytrue.zip",
+            "hashes": {
+                "sha1": "364f87c6dc79cb4e0a65845201f12d1814b9c17f",
+                "sha512": "8a1f34427b13edc92b8ff033bb82aed54528e24b23eb1b58c5b040cc5a21ef16638c88a87241ecec6f35a4a90b2a0ea8ad49f77ddd37e9af6dc8f234af8b4e8b"
+            },
+            "downloads": [
+                "https://mediafilez.forgecdn.net/files/5382/394/Stay_True_1.20.6.zip"
+            ],
+            "fileSize": 2135892
         }
     ],
     "dependencies": {
