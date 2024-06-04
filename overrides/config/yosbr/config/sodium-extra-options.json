@@ -1,0 +1,6 @@
+{
+  "extra_settings": {
+    "show_fps": true,
+    "use_adaptive_sync": true
+  }
+}
