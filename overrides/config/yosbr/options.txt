@@ -1,4 +1,4 @@
-version:3839
+version:3955
 advancedItemTooltips:true
 darkMojangStudiosBackground:true
 enableVsync:true
@@ -8,7 +8,7 @@ maxFps:250
 onboardAccessibility:false
 operatorItemsTab:true
 resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/staytrue.zip","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip","file/sakurahotbar.zip"]
-incompatibleResourcePacks:["e4mc_minecraft","modernfix","yet_another_config_lib_v3"]
+incompatibleResourcePacks:["modernfix","rrls","yet_another_config_lib_v3"]
 simulationDistance:12
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
@@ -20,6 +20,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
+key_key.optigui.inspect:key.keyboard.unknown
 toggleSprint:true
 key_key.togglePerspective:key.keyboard.z
 mouseSensitivity:0.25
