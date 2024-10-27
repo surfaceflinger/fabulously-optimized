@@ -1,14 +1,14 @@
 version:3955
 advancedItemTooltips:true
 darkMojangStudiosBackground:true
-enableVsync:true
+enableVsync:false
 guiScale:2
 joinedFirstServer:true
 maxFps:250
 onboardAccessibility:false
 operatorItemsTab:true
 resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/staytrue.zip","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip","file/sakurahotbar.zip"]
-incompatibleResourcePacks:["modernfix","rrls","yet_another_config_lib_v3","file/sakurahotbar.zip"]
+incompatibleResourcePacks:["modernfix","rrls","yet_another_config_lib_v3","file/sakurahotbar.zip","file/staytrue.zip"]
 simulationDistance:8
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
@@ -39,3 +39,4 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+key_key.optigui.inspect:key.keyboard.unknown
